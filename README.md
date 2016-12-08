@@ -30,7 +30,7 @@ I’ve been working on migrating some batch jobs for Podcastpedia.org to Spring 
 
 ##Summary
 ##Resources
-##Source Code – GitHub
+##[Source Code – GitHub](https://github.com/PodcastpediaOrg/podcastpedia-batch)
 ##Web
 ##Note:
 * Before you begin with this tutorial I recommend you read first Spring’s Getting started – [Creating a Batch Service](http://spring.io/guides/gs/batch-processing/), because  the structure and the code presented here builds on that original.
